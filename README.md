@@ -22,7 +22,8 @@ DATE:
 
 1.## CIRCUIT DIAGRAM -INVERTING AMPLIFIER
 
-<img width="1280" height="820" alt="image" src="https://github.com/user-attachments/assets/6c84b614-52e4-4620-982c-99d422c7a541" />
+<img width="1204" height="1600" alt="image" src="https://github.com/user-attachments/assets/8f486f42-4a61-43ba-b7cd-bf63b4c4d590" />
+
 
 
 ---
@@ -31,43 +32,44 @@ DATE:
 ---
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-![WhatsApp Image 2025-11-15 at 10 57 20 AM](https://github.com/user-attachments/assets/27e221fd-63ba-4222-9150-67da5d81c647)
+![WhatsApp Image 2025-11-30 at 22 18 14_7c7daa3a](https://github.com/user-attachments/assets/b7f86de0-370d-498f-8f8a-b4cdcd387278)
+
 
 ---
 
 2.## CIRCUIT DIAGRAM -NON INVERTING AMPLIFIER
 
-PASTE THE CIRCUIT HERE
----
+<img width="1600" height="1204" alt="image" src="https://github.com/user-attachments/assets/ba3c7f8e-6596-4f03-a33f-e411d56c3c8f" />
 
 
 ---
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
+![WhatsApp Image 2025-11-30 at 22 18 51_7e64a44e](https://github.com/user-attachments/assets/306fda35-22b7-41e5-ad61-87f193ed0964)
+
 ---
 3.## CIRCUIT DIAGRAM - DIFFERENTIAL AMPLIFIER 
 
-PASTE THE CIRCUIT HERE
----
+<img width="1599" height="899" alt="image" src="https://github.com/user-attachments/assets/39053d4f-b543-44ab-8855-c5278616f106" />
+
 
 
 
 ## OUTPUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
----
+![WhatsApp Image 2025-11-30 at 22 19 17_b7b2e34c](https://github.com/user-attachments/assets/c92cb533-b490-4dc3-a661-5f828c46f844)
+
 4.## CIRCUIT DIAGRAM - INSTRUMENTATION AMPLIFIER
 
-PASTE THE CIRCUIT HERE
----
+<img width="1440" height="1080" alt="image" src="https://github.com/user-attachments/assets/494b80d4-0ed8-4f7a-8e3a-7a38f9c4551f" />
+
 
 
 
 ## OUT PUT WAVEFORM AND DISCUSSION 
 
-PASTE THE OUTPUT WAVEFORM HERE
----
+![WhatsApp Image 2025-11-30 at 22 23 30_f47ec380](https://github.com/user-attachments/assets/6cee95d8-4860-4699-b5e3-8ba10c22f436)
+
 
 ## RESULT
 Thus, the Inverting,Non-Inverting, Differential, and Instrumentation Amplifiers were designed and their performance successfully tested using LT-SPICE.
